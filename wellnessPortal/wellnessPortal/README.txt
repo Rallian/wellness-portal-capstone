@@ -1,4 +1,4 @@
 This application is designed to help a healthcare/insurance provider's customer  to access their information, update their personal information, see how long before their prescription refills and where they can pick them up.
 In order to get this application working you'll need to have maven, import the files, create a database and update the database information within the application.properties file, and use the SQL script contained within wellness_portal-dbscript in your mysql database.
 The sql script allows you to import the original user with the username of theFuddo@yahoo.com and password of password123 to access the site. 
-You are also able to register a new user immediatly but won't have access to the ability to delete prescriptions as this feature has not been implemented yet.
+You are also able to register a new user immediatly but won't have access to the ability to add prescriptions as this feature has not been implemented yet.
